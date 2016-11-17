@@ -1,0 +1,16 @@
+{
+  "name": "htmlhint-teamcity",
+  "version": "1.0.0",
+  "description": "HtmlHint TeamCity Reporter which group by files using TeamCity Test Suite",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "teamcity",
+    "htmlhint",
+    "reporter"
+  ],
+  "author": "Simon Coe <sicoemail+htmlhint-teamcity@googlemail.com>",
+  "license": "MIT"
+}
