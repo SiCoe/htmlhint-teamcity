@@ -14,7 +14,7 @@ module.exports = function (file) {
 
         file.htmlhint.messages.forEach(function (message) {
             var error = message.error;
-            tsm.testStarted(error.rule.description)
+            tsm.testStarted({ name: error.rule.description })
                 .testFailed({
                     name: "line " + error.line + ", col " + error.col + ", " + error.message,
                     message: error.message,
