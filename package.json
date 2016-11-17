@@ -4,7 +4,7 @@
   "description": "HtmlHint TeamCity Reporter which group by files using TeamCity Test Suite",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "mocha"
   },
   "keywords": [
     "teamcity",
@@ -15,5 +15,13 @@
   "license": "MIT",
   "dependencies": {
     "teamcity-service-messages": "^0.1.8"
+  },
+  "devDependencies": {
+    "assert": "^1.4.1",
+    "gulp": "^3.9.1",
+    "gulp-htmlhint": "^0.3.1",
+    "gulp-print": "^2.0.1",
+    "gulp-util": "^3.0.7",
+    "mocha": "^3.1.2"
   }
 }
