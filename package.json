@@ -23,5 +23,8 @@
     "gulp-print": "^2.0.1",
     "gulp-util": "^3.0.7",
     "mocha": "^3.1.2"
+  },
+  "engines": {
+    "node": ">=4.0.0"
   }
 }
