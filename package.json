@@ -12,5 +12,8 @@
     "reporter"
   ],
   "author": "Simon Coe <sicoemail+htmlhint-teamcity@googlemail.com>",
-  "license": "MIT"
+  "license": "MIT",
+  "dependencies": {
+    "teamcity-service-messages": "^0.1.8"
+  }
 }
