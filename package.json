@@ -1,6 +1,6 @@
 {
   "name": "htmlhint-teamcity",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "HtmlHint TeamCity Reporter which group by files using TeamCity Test Suite and HtmlHint Rule",
   "main": "index.js",
   "scripts": {
