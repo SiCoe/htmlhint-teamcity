@@ -1,6 +1,12 @@
 HTMLHint-TeamCity
 =================
 
+[![NPM version](https://img.shields.io/npm/v/htmlhint-teamcity.svg)](https://www.npmjs.com/package/htmlhint-teamcity)
+[![MIT License](https://img.shields.io/github/license/SiCoe/htmlhint-teamcity.svg)](https://github.com/SiCoe/htmlhint-teamcity/blob/master/LICENSE)
+[![Dependency Status](https://img.shields.io/david/SiCoe/htmlhint-teamcity.svg)](https://david-dm.org/SiCoe/htmlhint-teamcity)
+[![devDependency Status](https://img.shields.io/david/dev/SiCoe/htmlhint-teamcity.svg)](https://david-dm.org/SiCoe/htmlhint-teamcity?type=dev)
+[![GitHub issues](https://img.shields.io/github/issues/SiCoe/htmlhint-teamcity.svg)](https://github.com/SiCoe/htmlhint-teamcity/issues)
+
 TeamCity reporter for [HTMLHint](https://htmlhint.com) errors.
 
 ## Install
